@@ -1,4 +1,4 @@
-This Repository contains a DSA project on department store management system
+This Repository contains a DSA project on DEPARTMENT STORE MANAGEMENT SYSTEM
 
 Objectives: 
 
